@@ -7,28 +7,15 @@ patch:
     - humanize-ms > ms:
         patched: '2020-03-03T14:17:13.694Z'
   'npm:debug:20170905':
-    - dustjs-linkedin > chokidar > readdirp > micromatch > snapdragon > debug:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > braces > snapdragon > debug:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
-        patched: '2020-03-03T15:16:12.298Z'
+    - tap > tap-mocha-reporter > debug:
+        patched: '2020-03-03T15:13:41.939Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
+        patched: '2020-03-03T15:13:41.939Z'
+  SNYK-JS-LODASH-450202:
+    - tap > nyc > istanbul-reports > handlebars > async > lodash:
+        patched: '2020-03-03T15:13:41.939Z'
   'npm:ms:20170412':
-    - dustjs-linkedin > chokidar > readdirp > micromatch > snapdragon > debug > ms:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > braces > snapdragon > debug > ms:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > snapdragon > debug > ms:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug > ms:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > debug > ms:
-        patched: '2020-03-03T15:16:12.298Z'
-    - dustjs-linkedin > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug > ms:
-        patched: '2020-03-03T15:16:12.298Z'
+    - tap > tap-mocha-reporter > debug > ms:
+        patched: '2020-03-03T15:13:41.939Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug > ms:
+        patched: '2020-03-03T15:13:41.939Z'
